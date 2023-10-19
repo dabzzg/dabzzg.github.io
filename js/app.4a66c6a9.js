@@ -70,10 +70,10 @@
     s.a
   }, "11cc": function (a, n, t) {
     // a.exports = t.p + "img/img2.94d7cbaf.png"
-    a.exports = "https://dabzzg.github.io/web_fe/img/img2.94d7cbaf.png"
+    a.exports = "https://dabzzg.github.io/img/img2.94d7cbaf.png"
   }, "3c11": function (a, n, t) {
     // a.exports = t.p + "img/img_4.4132147f.png"
-    a.exports = "https://dabzzg.github.io/web_fe/img/img_4.4132147f.png"
+    a.exports = "https://dabzzg.github.io/img/img_4.4132147f.png"
   }, 4530: function (a, n, t) {
     "use strict";
     var e = t("f1c0"), s = t.n(e);
@@ -412,16 +412,16 @@
   }, "64a9": function (a, n, t) {
   }, "71d3": function (a, n, t) {
     // a.exports = t.p + "img/img1.2bf7fdf0.png"
-    a.exports = "https://dabzzg.github.io/web_fe/img/img1.2bf7fdf0.png"
+    a.exports = "https://dabzzg.github.io/img/img1.2bf7fdf0.png"
   }, "7c41": function (a, n, t) {
     // a.exports = t.p + "img/img_5.10b0b9ff.png"
-    a.exports = "https://dabzzg.github.io/web_fe/img/img_5.10b0b9ff.png"
+    a.exports = "https://dabzzg.github.io/img/img_5.10b0b9ff.png"
   }, "7e77": function (a, n, t) {
     // a.exports = t.p + "img/img.fc51f956.png"
-    a.exports = "https://dabzzg.github.io/web_fe/img/img.fc51f956.png"
+    a.exports = "https://dabzzg.github.io/img/img.fc51f956.png"
   }, "8d95": function (a, n, t) {
     // a.exports = t.p + "img/img_3.394a600a.png"
-    a.exports = "https://dabzzg.github.io/web_fe/img/img_3.394a600a.png"
+    a.exports = "https://dabzzg.github.io/img/img_3.394a600a.png"
   }, "8ec9": function (a, n, t) {
     "use strict";
     var e = t("63a0"), s = t.n(e);
@@ -429,14 +429,14 @@
   }, b317: function (a, n, t) {
   }, f15c: function (a, n, t) {
     // a.exports = t.p + "img/img3.a4da6670.png"
-    a.exports = "https://dabzzg.github.io/web_fe/img/img3.a4da6670.png"
+    a.exports = "https://dabzzg.github.io/img/img3.a4da6670.png"
   }, f1c0: function (a, n, t) {
   }, f731: function (a, n, t) {
     // a.exports = t.p + "img/img_2.a744cc45.png"
-    a.exports = "https://dabzzg.github.io/web_fe/img/img_2.a744cc45.png"
+    a.exports = "https://dabzzg.github.io/img/img_2.a744cc45.png"
   }, f85b: function (a, n, t) {
     // a.exports = t.p + "img/img_1.a1b44af7.png"
-    a.exports = "https://dabzzg.github.io/web_fe/img/img_1.a1b44af7.png"
+    a.exports = "https://dabzzg.github.io/img/img_1.a1b44af7.png"
   }
 });
 //# sourceMappingURL=app.4a66c6a9.js.map

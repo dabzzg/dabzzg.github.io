@@ -448,7 +448,7 @@
               var a = new XMLHttpRequest;
               a.withCredentials = !0, a.addEventListener("readystatechange", function (t) {
                 4 === this.readyState && (console.log(this.responseText), e.list = JSON.parse(this.responseText))
-              }), a.open("POST", "https://www.stormdragon.cn/question/"), a.setRequestHeader("X-Access-Token", "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTQxMjQzNjMsInVzZXJuYW1lIjoib3RoZXIifQ.7KPUg310bbeyMayQ1K43ecNWazZWYcLKXQ1sxSxQhos"), a.setRequestHeader("User-Agent", "Apifox/1.0.0 (https://apifox.com)"), a.setRequestHeader("Content-Type", "application/json"), a.setRequestHeader("Accept", "*/*"), a.setRequestHeader("Host", "36.111.142.184:12000"), a.setRequestHeader("Connection", "keep-alive"), a.send(t);
+              }), a.open("POST", "https://36.111.142.184:12000/question"), a.setRequestHeader("X-Access-Token", "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTQxMjQzNjMsInVzZXJuYW1lIjoib3RoZXIifQ.7KPUg310bbeyMayQ1K43ecNWazZWYcLKXQ1sxSxQhos"), a.setRequestHeader("User-Agent", "Apifox/1.0.0 (https://apifox.com)"), a.setRequestHeader("Content-Type", "application/json"), a.setRequestHeader("Accept", "*/*"), a.setRequestHeader("Host", "36.111.142.184:12000"), a.setRequestHeader("Connection", "keep-alive"), a.send(t);
               JSON.stringify({name: "华妃"})
             }
           }

@@ -333,7 +333,7 @@
               },
               expression: "checked"
             }
-          }, [t._v("启用few-shot")])], 1), a("div", {staticClass: "btn_c"}, t._l(t.list, function (e, n) {
+          }, [t._v("启用检索增强")])], 1), a("div", {staticClass: "btn_c"}, t._l(t.list, function (e, n) {
             return a("p", {
               key: n,
               staticClass: "p_c",
